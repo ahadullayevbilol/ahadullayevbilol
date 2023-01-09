@@ -4,11 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahadullayevbilol&label=Profile%20views&color=0e75b6&style=flat" alt="ahadullayevbilol" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ahadullayevbilol" target="blank"><img src="https://img.shields.io/twitter/follow/ahadullayevbilol?logo=twitter&style=for-the-badge" alt="ahadullayevbilol" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bhadullayev" target="blank"><img src="https://img.shields.io/twitter/follow/bhadullayev?logo=twitter&style=for-the-badge" alt="bhadullayev" /></a> </p>
+
+- 🔭 I’m currently working on **Yemak**
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Javascript, react**
+- 💬 Ask me about **Javascrip, react**
 
 - 📫 How to reach me **bilolahadullayev@gmail.com**
 
@@ -16,7 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/bhadullayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhadullayev" height="30" width="40" /></a>
 <a href="https://instagram.com/b1loldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b1loldev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/bilol ahadullayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bilol ahadullayev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
