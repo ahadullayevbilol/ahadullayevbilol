@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Javascrip, react**
+- 💬 Ask me about **Javascript, react**
 
 - 📫 How to reach me **bilolahadullayev@gmail.com**
 
