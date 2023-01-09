@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bilol Ahadullayev</h1>
 <h3 align="center">I'm frontend developer from Uzbekistan</h3>
-<img align="right" src=""https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahadullayevbilol&label=Profile%20views&color=0e75b6&style=flat" alt="ahadullayevbilol" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Javascrip, react**
+- 💬 Ask me about **Javascript, react**
 
 - 📫 How to reach me **bilolahadullayev@gmail.com**
 
